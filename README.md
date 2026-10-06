@@ -50,5 +50,5 @@ Built at **Cal Hacks 12.0**, SOUMA is a real-time coaching overlay that analyzes
 
 ### 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/michael-dai/)
+- [LinkedIn](www.linkedin.com/in/michael-dai-711104280)
 - michael_dai@berkeley.edu
