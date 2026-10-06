@@ -1,4 +1,3 @@
-```md
 ### Hi, I'm Michael 👋
 
 I'm a UC Berkeley student studying **Electrical Engineering & Computer Science and Economics**, graduating in **May 2027**.
@@ -53,4 +52,3 @@ Built at **Cal Hacks 12.0**, SOUMA is a real-time coaching overlay that analyzes
 
 - [LinkedIn](https://www.linkedin.com/in/michael-dai/)
 - michael_dai@berkeley.edu
-```
